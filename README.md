@@ -1,14 +1,16 @@
-These are a list of Flutter Youtube channels I check almost daily.
+These are a list of Flutter Youtube channels I check almost daily.[Last update: 23 May 21]
 
 The top 5 active currently are:
 
-Johannes Milke	https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA
+1. Johannes Milke	https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA
 
-Tadas Petra	https://www.youtube.com/channel/UCNaJHBXsvbfkItVMNmzmTPQ
+2. Tadas Petra	https://www.youtube.com/channel/UCNaJHBXsvbfkItVMNmzmTPQ
 
-Techie Blossom	https://www.youtube.com/channel/UC3wqIkiaOUpO6EjJoCwH6_Q
+3. Techie Blossom	https://www.youtube.com/channel/UC3wqIkiaOUpO6EjJoCwH6_Q
 
-Florian Prümer	https://www.youtube.com/channel/UCcrXelEbe1HEZb0Olqy7jGg
+4. Florian Prümer	https://www.youtube.com/channel/UCcrXelEbe1HEZb0Olqy7jGg
+
+5. SyntacOps	https://www.youtube.com/channel/UC__DofoA9cwOdqhz91vYNVA
 
 
 alexpavelm	https://www.youtube.com/channel/UCiP9nNT3W9XeMtnwBg-5Ygw
@@ -56,7 +58,6 @@ Sanskar Tiwari	https://www.youtube.com/channel/UCsPdgUIoOBTBI1UmulW1pdw
 Shajedul Islam Shawon	https://www.youtube.com/channel/UCJvlTFFBxaaHo1i2TWviwZg
 Skippy 6 Gaming	https://www.youtube.com/channel/UChaD7v_qp1qHfhv3-sQFG9g
 Snippet Coder	https://www.youtube.com/channel/UCQ5EaVUK-cZxQL2AdOCG6Pg
-SyntacOps	https://www.youtube.com/channel/UC__DofoA9cwOdqhz91vYNVA
 The Flutter Way	https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw
 The Growing Developer	https://www.youtube.com/channel/UCDop5l09jz_ExPaQwGL-RrQ
 The Net Ninja	https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
