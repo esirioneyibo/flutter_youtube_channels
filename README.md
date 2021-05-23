@@ -3,10 +3,12 @@ These are a list of Flutter Youtube channels I check almost daily.
 The top 5 active currently are:
 
 Johannes Milke	https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA
-Tadas Petra	https://www.youtube.com/channel/UCNaJHBXsvbfkItVMNmzmTPQ
-Techie Blossom	https://www.youtube.com/channel/UC3wqIkiaOUpO6EjJoCwH6_Q
-Florian Prümer	https://www.youtube.com/channel/UCcrXelEbe1HEZb0Olqy7jGg
 
+Tadas Petra	https://www.youtube.com/channel/UCNaJHBXsvbfkItVMNmzmTPQ
+
+Techie Blossom	https://www.youtube.com/channel/UC3wqIkiaOUpO6EjJoCwH6_Q
+
+Florian Prümer	https://www.youtube.com/channel/UCcrXelEbe1HEZb0Olqy7jGg
 
 
 alexpavelm	https://www.youtube.com/channel/UCiP9nNT3W9XeMtnwBg-5Ygw
