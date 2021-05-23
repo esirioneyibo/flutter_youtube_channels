@@ -3,10 +3,10 @@ These are a list of Flutter Youtube channels I check almost daily.[Last update: 
 
  
 The top 5 active currently are:
-Image | Channel Name | Url
+Image | Channel Name | Description
 ------|------------- | -------------
-![Image](https://yt3.ggpht.com/ytc/AAUvwnhm566QIT1Snc82XGCkJEE6diQX4GMuqnmqG4U5qg=s88-c-k-c0x00ffffff-no-rj) | Johannes Milke	|https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA
-![Image]()| Tadas Petra|	https://www.youtube.com/channel/UCNaJHBXsvbfkItVMNmzmTPQ
+![Image](https://yt3.ggpht.com/ytc/AAUvwnhm566QIT1Snc82XGCkJEE6diQX4GMuqnmqG4U5qg=s88-c-k-c0x00ffffff-no-rj) | [Johannes Milke](https://www.youtube.com/c/JohannesMilke/playlists)|My name is Johannes Milke and I'm a Flutter software developer living in Germany - Kassel. I have created this channel to share my knowledge with you about mobile development with Flutter.
+![Image](https://yt3.ggpht.com/ytc/AAUvwniG3S5LMv7AGXn8TAwhYH8N0p0FMLlGjXPYG6rcfg=s88-c-k-c0x00ffffff-no-rj)| [Tadas Petra](https://www.youtube.com/c/TadasPetra/playlists)|I teach Flutter and Dart and anything related to Flutter and Dart. The goal of this channel is to be able to explain programming topics in a deep and professional way, so that its not just a walkthrough tutorial, but really gives you a deep understanding of what is going on behind the scenes.
 ![Image]()|Techie Blossom|	https://www.youtube.com/channel/UC3wqIkiaOUpO6EjJoCwH6_Q
 ![Image]()|Florian Prümer|	https://www.youtube.com/channel/UCcrXelEbe1HEZb0Olqy7jGg
 ![Image]()|SyntacOps|	https://www.youtube.com/channel/UC__DofoA9cwOdqhz91vYNVA
